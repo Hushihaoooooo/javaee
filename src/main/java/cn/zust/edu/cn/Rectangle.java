@@ -41,7 +41,6 @@ public class Rectangle implements IShape {
     // 绘制矩形
     @Override
     public void draw() {
-        // 这里可以实现具体的绘制逻辑
         System.out.println("Draw rectangle with top left point (" + ptTopLeft.getX() + ", " + ptTopLeft.getY() + "), width " + width + ", height " + height);
     }
 }

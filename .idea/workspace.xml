@@ -13,12 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="341e3750-b003-48d6-9720-3813c2a42bbe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zust/edu/cn/Rectangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="341e3750-b003-48d6-9720-3813c2a42bbe" name="Default Changelist" comment="finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662520054313</updated>
       <workItem from="1662520060171" duration="1981000" />
-      <workItem from="1709815816854" duration="2917000" />
+      <workItem from="1709815816854" duration="3259000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1662520558309</created>
@@ -119,7 +114,31 @@
       <option name="project" value="LOCAL" />
       <updated>1662521992149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="任务说明">
+      <option name="closed" value="true" />
+      <created>1709821512471</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709821512471</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finished">
+      <option name="closed" value="true" />
+      <created>1709821603338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709821603338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="finished">
+      <option name="closed" value="true" />
+      <created>1709821769901</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709821769901</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="任务说明" />
-    <option name="LAST_COMMIT_MESSAGE" value="任务说明" />
+    <MESSAGE value="finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished" />
   </component>
 </project>
